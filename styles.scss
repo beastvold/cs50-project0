@@ -1,0 +1,22 @@
+body {
+    padding-top: 50px;
+}
+  
+h2 {
+    text-align: center;
+    border: 3px solid slategray;
+    color: darkolivegreen;
+}
+  
+.jumbotron {
+    background-image: url("/images/giraffe.jpg");
+    background-size: 100%;
+}
+  
+.centered {
+    text-align: center
+}
+  
+.shadowed {
+    text-shadow: 2px 2px #000000;
+}
